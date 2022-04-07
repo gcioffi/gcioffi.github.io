@@ -3944,6 +3944,10 @@ input, select, textarea {
 .publication .conference {
   font-size:18px;
 }
+.publication .award {
+  font-weight:bold;
+  font-size:20px;
+}
 .publication .download a {
   display:block;
   padding:5px 10px 0 0;
